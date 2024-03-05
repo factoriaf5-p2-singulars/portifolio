@@ -1,7 +1,7 @@
 # Web Porfolio
 
 ## Descripción
-Crearemos nuestro portafolio online haciendo uso de HTML, CSS y JAVASCRIPT. Este proyecto se irá actualizando a medida que vayamos aprendiendo nuevas tecnologías.
+Crearemos nuestro portafolio online haciendo uso de HTML y CSS. Este proyecto se irá actualizando a medida que vayamos aprendiendo nuevas tecnologías.
 
 ## Contexto del proyecto
 ### ¿Qué es un portfolio online?
@@ -16,38 +16,39 @@ Esto se puede hacer de muchas maneras – diapositivas, presentaciones en video,
 1. El proyecto DEBE utilizar el panel de señalización Kanban.
 2. La página web DEBE ser responsive.
 3. El proyecto DEBE ser lo más escalable posible. Ya que se irá actualizando a medida que vayamos aprendiendo nuevas tecnologías.
-4. El proyecto DEBE ser desarrollado con HTML, CSS y JAVASCRIPT. 
+4. El proyecto DEBE ser desarrollado con HTML y CSS. 
 5. Utilizar Gitflow para el desarrollo del código.
 6. Se pueden usar librería como ahora: Bootstrap, Tailwind, etc.
-7. Se DEBE hacer un diseño en Figma de la web.
-8. Se debe desplegar el proyecto.
+7. Se DEBE hacer un diseño en Figma para cada módulo de la web.
+8. Se hace primero el diseño en figma y después la maquetación en HTML/CSS
+9. Se debe desplegar el proyecto.
 
 ### Bonus Track
 - Aplicar criterios de accesibilidad.
 
 ## Modalidades Pedagógicas
-- El proyecto será individual.
-- Se realizarán durantes las vacaciones con entrega el día 11 de enero
-- La entrega será via Slack con el link del deploy.
-- El proyecto NO SE DEBE REALIZAR EN EL REPOSITORIO DE CLASSROOM, SINO SE DEBERÁ CREAR EN UNO PROPIO.
+- El proyecto será individual (se puede pedir ayuda a los compañeros).
+- Se realizará en dos Sprints:
+- Sprint I, entrega viernes 08/04:
+- Módulos: Menu, Header, Footer
+- Sprint II, entrega viernes 15/04:
+- Módulos: Sesion About Me, Sesión Proyectos
 
 ## Modalidades de Evaluación
 - La evaluación se realizará mediante comentarios orales el día de la presentación.
 - Se hará también una dinámica de autoevaluación.
 
-
 ### Entregables
-- Link del deploy del porfolio
-- Repositorio personal con el fichero README.md explicando:
+- Repositorio con el fichero README.md explicando:
   - Descripción del proyecto
   - Link del despliegue
   - Demo (Figma)
   - Herramientas utilizadas
   - Cómo instalar el proyecto en el ordenador (local)
+- Link del deploy del porfolio
 
 ### ¿Qué competencias se evalúan?
 - Maquetar una web nivel 3
-- Desarrollar una interfaz de usuario dinámica nivel 3
 - Crear una interfaz de usuario web estática y adaptable nivel 3
 
 ## Recursos
