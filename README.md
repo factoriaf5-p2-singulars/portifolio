@@ -18,10 +18,9 @@ Esto se puede hacer de muchas maneras – diapositivas, presentaciones en video,
 3. El proyecto DEBE ser lo más escalable posible. Ya que se irá actualizando a medida que vayamos aprendiendo nuevas tecnologías.
 4. El proyecto DEBE ser desarrollado con HTML y CSS. 
 5. Utilizar Gitflow para el desarrollo del código.
-6. Se pueden usar librería como ahora: Bootstrap, Tailwind, etc.
-7. Se DEBE hacer un diseño en Figma para cada módulo de la web.
-8. Se hace primero el diseño en figma y después la maquetación en HTML/CSS
-9. Se debe desplegar el proyecto.
+6. Se DEBE hacer un diseño en Figma para cada módulo de la web.
+7. Se hace primero el diseño en figma y después la maquetación en HTML/CSS
+8. Se debe desplegar el proyecto.
 
 ### Bonus Track
 - Aplicar criterios de accesibilidad.
@@ -32,7 +31,7 @@ Esto se puede hacer de muchas maneras – diapositivas, presentaciones en video,
 - Sprint I, entrega viernes 08/04:
 - Módulos: Menu, Header, Footer
 - Sprint II, entrega viernes 15/04:
-- Módulos: Sesion About Me, Sesión Proyectos
+- Módulos: Sección About Me, Sección Proyectos
 
 ## Modalidades de Evaluación
 - La evaluación se realizará mediante comentarios orales el día de la presentación.
